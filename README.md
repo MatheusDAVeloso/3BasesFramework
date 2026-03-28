@@ -1,12 +1,8 @@
 Um protocolo de pensamento, documentação e tomada de decisão para projetos que envolvem estratégia, experiência de usuário e tecnologia.
 
----
-
 ## O que é
 
 O 3 Bases Framework organiza qualquer projeto sob 3 perspectivas complementares e independentes — **Executiva**, **Design** e **Dev** — garantindo que nenhuma decisão seja tomada de forma isolada.
-
----
 
 ## Representação visual
 
@@ -16,8 +12,6 @@ Se você entender essa imagem, entendeu 50% do framework.
 
 > O ser humano parece pensar naturalmente em trios, e o triângulo não é coincidência: é a forma geométrica mais estável: 3 bases, 3 perspectivas, nenhuma hierarquia entre elas.
 
-
----
 ## Como surgiu
 
 Nasceu de uma necessidade concreta: [@MatheusDAVeloso](https://github.com/MatheusDAVeloso), desenvolvendo um jogo modular e emergente sozinho, precisava de uma forma de organizar o projeto que fosse estruturada o suficiente para se preparar a erros humanos e omissões implícitas onde o cérebro não consegue pensar em todas as possibilidades, mas flexível o suficiente já que a única certeza, assim como dizia o filósofo pré-socrático [Heráclito de Éfeso](https://pt.wikipedia.org/wiki/Her%C3%A1clito), era de que "A única constante é a mudança".
@@ -35,7 +29,6 @@ Percebeu também, sem ter planejado, que havia chegado ao mesmo raciocínio de o
 
 Não foi construído olhando para nenhum desses. A convergência foi a validação.
 
----
 ## Licença
 
 CC BY 4.0 — use, adapte e distribua com atribuição.

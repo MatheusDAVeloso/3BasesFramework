@@ -1,36 +1,36 @@
-## O que é
-Um protocolo de pensamento, documentação e tomada de decisão para projetos que envolvem estratégia, experiência de usuário e tecnologia.
+## What it is
+A thinking, documentation, and decision-making protocol for projects involving strategy, user experience, and technology.
 
-O 3 Bases Framework organiza qualquer projeto sob 3 perspectivas complementares e independentes — **Executiva**, **Design** e **Dev** — garantindo que nenhuma decisão seja tomada de forma isolada.
+The 3 Bases Framework organizes any project under 3 complementary and independent perspectives — Executive, Design, and Dev — ensuring no decision is made in isolation.
 
 
-## Representação visual
+## Visual representation
 
-Se você entender essa imagem, entendeu 50% do framework.
+If you understand this image, you understand 50% of the framework.
 
 ![Cada vértice representa uma base. O interior do triângulo é o espaço dos Elementos, tudo que é analisado pelas 3 bases em conjunto. De cada vértice parte o **Arsenal** da base: componentes exclusivos criados e mantidos dentro do próprio domínio.](./assets/3-bases-visual.png)
 
-> O ser humano parece pensar naturalmente em trios, e o triângulo não é coincidência: é a forma geométrica mais estável: 3 bases, 3 perspectivas, nenhuma hierarquia entre elas.
+> Humans seem to think naturally in threes, and the triangle is no coincidence: it is the most stable geometric shape: 3 bases, 3 perspectives, no hierarchy between them.
 
 
-## Como surgiu
+## How it started
 
-Nasceu de uma necessidade concreta: [@MatheusDAVeloso](https://github.com/MatheusDAVeloso), desenvolvendo um jogo modular e emergente sozinho, precisava de uma forma de organizar o projeto que fosse estruturada o suficiente para se preparar a erros humanos e omissões implícitas onde o cérebro não consegue pensar em todas as possibilidades, mas flexível o suficiente já que a única certeza, assim como dizia o filósofo pré-socrático [Heráclito de Éfeso](https://pt.wikipedia.org/wiki/Her%C3%A1clito), era de que "A única constante é a mudança".
+Born from a concrete need: [@MatheusDAVeloso](https://github.com/MatheusDAVeloso), building a modular and emergent game solo, needed a way to organize the project structured enough to guard against human error and implicit omissions — the brain simply cannot think through all the possibilities on its own — yet flexible enough, since the only certainty, as the pre-Socratic philosopher [Heraclitus of Ephesus](https://en.wikipedia.org/wiki/Heraclitus) once said, was that _"the only constant is change."_
 
-Como não encontrou nada que atendesse algo semelhante a isso, criou o framework. Ao terminar, percebeu que a lógica se aplicava a qualquer coisa que envolvesse pensamento executivo, experiência de usuário e tecnologia, não só a jogos.
+Finding nothing that came close, he built one himself. When finished, he realized the logic applied to anything involving executive thinking, user experience, and technology, not just games.
 
-Percebeu também, sem ter planejado, que havia chegado ao mesmo raciocínio de outras estruturas que diferentes áreas do conhecimento já usavam para problemas parecidos:
+He also noticed, without having planned it, that he had arrived at the same reasoning used by different fields for similar problems:
 
-- **Militar**: Estratégico, Operacional e Tático: três níveis de decisão independentes que precisam estar alinhados para uma operação funcionar
-- **Design Thinking (IDEO)**: Desirability, Viability, Feasibility: um produto só existe se as três perspectivas concordam
-- **Domain-Driven Design**: contextos delimitados com linguagem e responsabilidade próprias, sem invasão de domínio
-- **Arquitetura de Software**: Separation of Concerns: cada camada cuida do seu escopo
-- **Gestão de Projetos**: o Triângulo de Ferro (escopo, tempo, qualidade) onde nenhum vértice domina os outros
-- **Conway's Law**: a estrutura de comunicação de um time reflete a arquitetura do que ele produz
+- **Military**: Strategic, Operational, and Tactical: three independent decision levels that must align for an operation to work
+- **Design Thinking (IDEO)**: Desirability, Viability, Feasibility: a product only exists if all three perspectives agree
+- **Domain-Driven Design**: bounded contexts with their own language and responsibility, no domain invasion
+- **Software Architecture**: Separation of Concerns: each layer owns its scope
+- **Project Management**: the Iron Triangle (scope, time, quality) where no vertex dominates the others
+- **Conway's Law**: a team's communication structure reflects the architecture of what it builds
 
-Não foi construído olhando para nenhum desses. A convergência foi a validação.
+None of these were referenced during construction. The convergence was the validation.
 
 
-## Licença
+## License
 
-CC BY 4.0 — use, adapte e distribua com atribuição.
+CC BY 4.0 — use, adapt, and distribute with attribution. 

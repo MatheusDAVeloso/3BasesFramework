@@ -1,8 +1,89 @@
+
+# IN DEVELOPMENT
+
 📄 **Informações do documento**
 Data de criação: 11/03/2026
 Última modificação: 14/03/2026
 
 ---
+
+
+
+## As 3 Bases
+
+Cada base possui **soberania absoluta** sobre seu domínio. Nenhuma tem autoridade sobre o domínio da outra. Algo só entra no projeto se as 3 concordarem.
+
+O veto de uma base não é conflito, é proteção. Se o Dev veta, está salvando o projeto de um colapso técnico. Se a Executiva veta, está salvando do escopo incontrolável. Se o Design veta, está salvando da perda de identidade.
+
+### 🏛️🏢 Base Executiva
+
+Responsável pelo **o quê**, **quanto** e **quando**. Cuida do que é estrutural, burocrático e estratégico: escopo, distribuição, idiomas, relações externas, custos. Separa a organização do público e protege as outras duas do caos operacional.
+
+Documenta em **Filosofias**, define intenção, não implementação.
+
+### 🏛️🎨 Base Design
+
+Responsável por tudo que **guia o usuário** e define a experiência: direção de arte, direção de produto, roteiro, identidade visual, marketing, música, modelagem. Define a sensação que o projeto transmite.
+
+Documenta em **Pilares e Diretrizes**: define como implementar dentro do domínio criativo.
+
+### 🏛️🛠️ Base Dev
+
+Responsável por toda a **infraestrutura técnica**: linguagens, engines, frameworks, arquitetura, design patterns, algoritmos, banco de dados, APIs, plataformas e versionamento. Metodologias ágeis como Scrum vivem dentro desta base, complementando sem substituir.
+
+Documenta em **Pilares e Diretrizes**: define como implementar dentro do domínio técnico.
+
+---
+
+## Modelo de Elemento
+
+**Elemento** é tudo que existe no projeto — sistemas, personagens, lugares, mecânicas, conceitos, funcionalidades.
+
+Todo elemento possui 3 operários obrigatórios, cada um representando sua base. Mesmo sem nada a documentar no momento, o operário está presente com `N/A` — quando o elemento evoluir, o espaço já existe.
+
+markdown
+
+```markdown
+## Elemento: [Nome]
+
+🏛️🏢 Executiva
+[Relevância para o escopo — faz parte do core? É essencial? É secundário?]
+
+🏛️🎨 Design
+[Por que existe, qual sua função, identidade, experiência que proporciona]
+
+🏛️🛠️ Dev
+[Atributos, componentes, classes, algoritmos, estrutura técnica]
+```
+
+---
+
+## Fluxo de Decisão
+
+### Critério de entrada
+
+Quando um novo elemento é proposto, as 3 bases avaliam sob sua perspectiva antes de qualquer implementação:
+
+- 🏛️🏢 Executiva — faz parte do escopo? Está alinhado com a visão do projeto?
+- 🏛️🎨 Design — como integra na identidade? Como mantém a experiência?
+- 🏛️🛠️ Dev — como modularizar? Precisa de nova estrutura ou algoritmo?
+
+As 3 precisam concordar. Se uma rejeita, não entra.
+
+### Fluxo de iniciativa
+
+```
+Executiva lança intenção
+       ↓
+Design resolve dentro do seu domínio
+Dev resolve dentro do seu domínio
+       ↓
+Se necessário, devolvem para ajuste
+```
+
+A Executiva define **intenção**, não implementação. Quanto mais específica ela for, menos autonomia sobra para as outras bases — e mais chance de invadir um domínio alheio.
+
+As bases podem devolver quando a Executiva foi específica demais ou quando o pedido é tecnicamente inviável.
 
 ## Sumário
 
@@ -211,4 +292,4 @@ Componentes do Arsenal são criados pela base que os possui e referenciados nos 
 
 O framework pode ser representado por um triângulo equilátero. Dentro dele, o **Elemento** — tudo que é analisado pelas 3 bases em conjunto. Cada vértice representa uma base. De cada vértice parte uma linha para fora do triângulo, conectando à caixa de **Arsenal** daquela base.
 
-![[Pasted image 20260314202841.png]]
+![[3-bases-visual.png]]

@@ -40,7 +40,7 @@ Documenta em **Filosofias**: define intenção, não implementação.
 
 ### 1.2 Base Design 🏛️🎨
 
-Responsável por tudo que guia o usuário e define a experiência: direção de arte, direção de produto, roteiro, modelagem, música, marketing, identidade visual, modelagem, animação. Define a identidade e a sensação que o projeto transmite.
+Responsável por tudo que guia o usuário e define a experiência: direção de arte, direção de produto, roteiro, modelagem, música, marketing, identidade visual, animação. Define a identidade e a sensação que o projeto transmite.
 
 Documenta em **Pilares e Diretrizes**: define como implementar dentro do domínio criativo.
 

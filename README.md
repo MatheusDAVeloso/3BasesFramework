@@ -28,7 +28,7 @@ He also noticed, without having planned it, that he had arrived at the same reas
 - **Project Management**: the Iron Triangle (scope, time, quality) where no vertex dominates the others
 - **Conway's Law**: a team's communication structure reflects the architecture of what it builds
 
-None of these were referenced during construction. The convergence was the validation.
+None of these were referenced during construction. The convergence was the validation. Without realizing it, he also may have built something that mirrors how a biological body coordinates itself. See the full documentation to understand why.
 
 
 ## License
